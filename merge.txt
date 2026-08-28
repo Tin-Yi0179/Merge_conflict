@@ -1,5 +1,4 @@
 
-Adios Tierra
+Hola Esteban
 
-Este es el estado inicial del archivo
-Prueba arreglado.
+Estado inicial
