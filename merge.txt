@@ -1,5 +1,4 @@
 
-Hola dia/noche
+Hola Esteban
 
-Este es el estado inicial del archivo
-Prueba arreglado por segunda vez en otra maquina.
+Estado inicial
