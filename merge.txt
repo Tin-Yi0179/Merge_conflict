@@ -1,4 +1,4 @@
 
-Hola Cielo
+Hola dia/noche
 
 Este es el estado inicial del archivo
